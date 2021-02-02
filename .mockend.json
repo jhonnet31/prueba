@@ -6,7 +6,7 @@
   "Catalogo":{
     "ID":"int",
     "NOMBRE":"string"
-  }
+  },
   "Nombre":{
     "NOMBRE":"string"
   }
