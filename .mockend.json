@@ -1,8 +1,5 @@
 {
-  "API": {
-    "catalogos":"Catalogo[]" ,
-    "nombres":"Nombre[]"
-  },
+ 
   "Catalogo":{
     "ID":"int",
     "NOMBRE":"string"
