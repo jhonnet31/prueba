@@ -4,5 +4,9 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Catalogo":{
+    "ID":"int",
+    "NOMBRE":"string"
   }
 }
