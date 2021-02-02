@@ -1,10 +1,10 @@
 {
  
   "Post":{
-    "ID":"int",
-    "NOMBRE":"string"
+    "id":"int",
+    "nombre":"string"
   },
   "Comment":{
-    "NOMBRE":"string"
+    "nombre":"string"
   }
 }
