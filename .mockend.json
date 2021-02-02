@@ -1,12 +1,13 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+  "API": {
+    "catalogos":"Catalogo[]" ,
+    "nombres":"Nombre[]"
   },
   "Catalogo":{
     "ID":"int",
+    "NOMBRE":"string"
+  }
+  "Nombre":{
     "NOMBRE":"string"
   }
 }
