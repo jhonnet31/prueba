@@ -1,10 +1,10 @@
 {
  
-  "Catalogo":{
+  "Post":{
     "ID":"int",
     "NOMBRE":"string"
   },
-  "Nombre":{
+  "Comment":{
     "NOMBRE":"string"
   }
 }
